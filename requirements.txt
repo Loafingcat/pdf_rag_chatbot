@@ -1,0 +1,9 @@
+streamlit==1.39.0
+pypdf==5.9.0
+chromadb==1.0.20
+sentence-transformers==3.0.1
+langchain-text-splitters==0.3.7
+google-genai==1.48.0
+python-dotenv==1.0.1
+torch==2.3.1
+numpy==1.26.4
